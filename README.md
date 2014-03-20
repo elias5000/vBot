@@ -4,7 +4,7 @@ vBot
 Preface
 -------
 
-Do not use this piece of software as it is built years ago on top of a long since deprecated module.
+Do not use this piece of software as it was built almost a decade ago on top of a long since deprecated module.
 This repository was only created to conserve this piece of labour for documentary reasons. ;-)
 
 Required Perl modules
